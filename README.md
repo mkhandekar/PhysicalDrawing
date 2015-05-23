@@ -1,4 +1,4 @@
-PhysicalDrawing
+WiiDrawing
 ===============
 
 drawing with arduino, processing & wii nunchuck
